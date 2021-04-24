@@ -1,7 +1,13 @@
-header {
+header{
         background-color: #A0A0A0;
 }
 
-.info{
-      background-color: 
+h2{
+    background-color: #00FFFF;
+    color: #00008B;
+}
+
+h3{
+    background-color: #FF8C00;
+    color: #006400;
 }
