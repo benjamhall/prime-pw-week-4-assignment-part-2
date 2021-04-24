@@ -2,6 +2,11 @@ header{
         background-color: #A0A0A0;
 }
 
+body{
+      border: 2px solid black;
+      text-align: center;
+}
+
 h2{
     background-color: #00FFFF;
     color: #00008B;
@@ -10,4 +15,8 @@ h2{
 h3{
     background-color: #FF8C00;
     color: #006400;
+}
+
+img{
+    width: 270px;
 }
